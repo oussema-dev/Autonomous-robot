@@ -1,0 +1,26 @@
+<annotation>
+	<folder>turn right</folder>
+	<filename>img31 (7).jpg</filename>
+	<path>C:\Users\oumay\Desktop\Nouveau dossier\turn right\img31 (7).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>trun_right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>51</ymin>
+			<xmax>268</xmax>
+			<ymax>243</ymax>
+		</bndbox>
+	</object>
+</annotation>

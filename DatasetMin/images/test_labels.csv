@@ -1,0 +1,19 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+img1 (43).jpg,300,300,stop,41,56,300,270
+img1 (43).jpg,300,300,stop,41,56,300,270
+img1 (44).jpg,300,300,stop,91,31,267,244
+img1 (44).jpg,300,300,stop,91,31,267,244
+img1 (45).jpg,300,300,stop,64,5,283,232
+img1 (46).jpg,300,300,stop,107,21,233,268
+img1 (47).jpg,300,300,stop,102,21,234,272
+img1 (48).jpg,300,300,stop,38,27,218,226
+img1 (49).jpg,300,300,stop,135,27,236,128
+img1 (50).jpg,300,300,stop,32,50,196,299
+img1 (51).jpg,300,300,stop,32,49,205,294
+img1 (52).jpg,300,300,stop,182,2,238,92
+img31 (2).jpg,300,300,trun_right,94,3,276,197
+img31 (3).jpg,300,300,trun_right,2,1,300,299
+img31 (4).jpg,300,300,trun_right,1,1,299,300
+img31 (5).jpg,300,300,trun_right,63,45,292,288
+img31 (6).jpg,300,300,trun_right,2,2,300,297
+img31 (7).jpg,300,300,trun_right,100,51,268,243

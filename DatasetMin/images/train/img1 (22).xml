@@ -1,0 +1,26 @@
+<annotation>
+	<folder>stop</folder>
+	<filename>img1 (22).jpg</filename>
+	<path>C:\Users\oumay\Desktop\Nouveau dossier\stop\img1 (22).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>78</ymin>
+			<xmax>232</xmax>
+			<ymax>152</ymax>
+		</bndbox>
+	</object>
+</annotation>

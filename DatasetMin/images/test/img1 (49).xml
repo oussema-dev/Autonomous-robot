@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>img1 (49).jpg</filename>
+	<path>C:\Users\Oussema\Desktop\dataset\images\test\img1 (49).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>135</xmin>
+			<ymin>27</ymin>
+			<xmax>236</xmax>
+			<ymax>128</ymax>
+		</bndbox>
+	</object>
+</annotation>
