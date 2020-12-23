@@ -1,6 +1,6 @@
 # Autonomous robot using deep learning
 
-![Screenshot](https://i.imgur.com/IL0LoMd)
+![Screenshot](https://imgur.com/IL0LoMd.png)
 
 ### This is an academic project that consists of building an autonomous robot capable of recongnizing and acting according to each road sign (currently it is trained to detect the stop and turn right signs)
 
@@ -15,8 +15,8 @@
 
 ## Deep learning using SSD pretrained model (ssd mobilenet v2) [http://download.tensorflow.org/models/object_detection/ssd_mobilenet_v2_coco_2018_03_29.tar.gz](http://download.tensorflow.org/models/object_detection/ssd_mobilenet_v2_coco_2018_03_29.tar.gz)
 this model is very accurate but heavy on the raspberry pi so i retrained it on google colab and converted it to tensorlite
-![Screenshot](https://i.imgur.com/VtOdDOh)
+![Screenshot](https://imgur.com/VtOdDOh.png)
 
 
 ## Haar cascades
-![Screenshot](https://i.imgur.com/B0PUeNW)
+![Screenshot](https://imgur.com/B0PUeNW.png)
